@@ -11,8 +11,7 @@ Using Axios, this project was my first attempt to approach fetching from an API 
 <img src="./src/images/landingPage.jpg" width="600"/>
 
 <p>Thanks for viewing</p>
-<p color="green">Asma Nour</p>
-<p color="green">Front-end Developer</p>
+<p><strong>Asma Nour <strong> | Front-end Developer</p>
 
 
 
