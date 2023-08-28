@@ -3,15 +3,15 @@
 
 Using Axios, this project was my first attempt to approach fetching from an API into a react-based application.
 
-<p>note: after the button click, the API requires 5s to fetch a new quote/advice</p>
-
-<p>the rest of the application is yet to be constructed</p>
+<p>Thanks for viewing</p>
+<p><strong>Asma Nour <strong> | Front-end Developer</p>
 
 
 <img src="./src/images/landingPage.jpg" width="600"/>
 
-<p>Thanks for viewing</p>
-<p><strong>Asma Nour <strong> | Front-end Developer</p>
+<p>note: after the button click, the API requires 5s to fetch a new quote/advice</p>
+
+<p>the rest of the application is yet to be constructed</p>
 
 
 
