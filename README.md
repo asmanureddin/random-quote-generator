@@ -1,3 +1,21 @@
+<html>
+<h2>Random Quote Generator App</h2>
+Using Axios, this project was my first attempt to approach fetching from an API into a react-based application. 
+
+<img src="./src/images/landingPage.jpg" width="600"/>
+
+Thanks for viewing
+Asma Nour
+Front-end Developer
+
+</html>
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
